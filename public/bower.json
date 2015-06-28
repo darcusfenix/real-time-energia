@@ -1,0 +1,12 @@
+{
+  "name": "Proyecto-instrumentacion",
+  "version": "1.0.0",
+  "authors": [
+    "Juan Crióstomo"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "~0.9.16",
+    "jquery" : "~2.1.3"
+  }
+}
